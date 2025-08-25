@@ -371,7 +371,7 @@ GameObject:
   - component: {fileID: 1737686266}
   - component: {fileID: 1737686265}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: LoadManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -390,6 +390,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   redObj: {fileID: 6669185791451818624, guid: 645028961b753a34396896c81bd9e376, type: 3}
+  blueObj: {fileID: 5012113534978519181, guid: 48e4e8fe231c6e44a80482246cd28f5b, type: 3}
 --- !u!4 &1737686266
 Transform:
   m_ObjectHideFlags: 0

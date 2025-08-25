@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: da71fcaee0dc2b241a4c2b966d7ca937
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rend: {fileID: 2139005980950538004, guid: 48e4e8fe231c6e44a80482246cd28f5b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
